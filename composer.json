@@ -26,6 +26,13 @@
             "content/themes/{$name}/": [
                 "type:wordpress-theme"
             ]
+        },
+        "altis": {
+            "modules": {
+                "search": {
+                    "enabled": false
+                }
+            }
         }
     },
     "config": {
